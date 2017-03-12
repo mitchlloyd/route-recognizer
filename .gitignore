@@ -1,6 +1,5 @@
 tmp/
 bower_components/
-dist/
 /.bundle
 .bundle/
 bundle
